@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Log;
 class BindApiService
 {
     private $httpRequest = null;
-    private $zone = 'cub.org';
+    private $zone = 'dev.cub.org';
     /**
      * Set HTTP headers for all requests
      */
