@@ -1,0 +1,794 @@
+[33mcommit f80fecd1a463fc8c3fd1b145abb2acf0c4487e13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b386cce da96586
+Author: Stéphane Thiry <stethiry9@gmail.com>
+Date:   Mon Jan 31 16:40:22 2022 +0100
+
+    Merge branch 'master' of gitlab.com:siollb/NetworkManager
+
+[33mcommit b386cced00d1f49bda4723085ad73a1737264a0d[m
+Author: Stéphane Thiry <stethiry9@gmail.com>
+Date:   Mon Jan 31 16:40:04 2022 +0100
+
+    [del] Suppression du dossier tests
+
+[33mcommit da96586f5089aa9a53fa4b9bd144599cf89e5009[m
+Author: frederic.turcq <fred.turcq@gmail.com>
+Date:   Mon Jan 31 16:27:01 2022 +0100
+
+    [update] changement de la classe Record.php
+
+[33mcommit bce71b79eb0702a082cbf1a6563cb1ce241759b7[m
+Author: stéphane thiry <stethiry9@gmail.com>
+Date:   Mon Jan 31 16:19:49 2022 +0100
+
+    [doc] Ajout d'un commentaire expliquant l'utilité du fichier HTML sidebar.blade.php
+
+[33mcommit 8d0054d5edf7203ca17b42493d523546d9a6d2a7[m
+Merge: a2219ba af72e91
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Sat Jan 29 10:22:14 2022 +0100
+
+    [fix] Résolution du conflit
+
+[33mcommit af72e919d2cb665b28fd7a0bc8c11cb2ee7248d9[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Sat Jan 29 08:43:17 2022 +0000
+
+    [doc] Ajout texte de présentation
+
+[33mcommit a2219ba17edd196445238a3d87fcc94ef0b65bfb[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Fri Jan 28 22:03:00 2022 +0100
+
+    [doc] Présentation de l’application
+
+[33mcommit b18764fc247c5684a46210ac568e4f0c73e87031[m
+Author: divatchyano <davidgrondin2a@gmail.com>
+Date:   Mon Nov 22 09:57:27 2021 +0000
+
+    Update git ignore
+
+[33mcommit cc0edbad16ae9151add5cfc98813c8b1aafd9e71[m
+Merge: 9b1fbcc 088d63c
+Author: root <root@servlaravelGD.cub.corsica>
+Date:   Mon Nov 22 09:55:24 2021 +0000
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 9b1fbcca329aefb1e11fe1a1ab102c1ca81e04c2[m
+Author: divatchyano <davidgrondin2a@gmail.com>
+Date:   Mon Nov 22 09:37:34 2021 +0000
+
+    Ajout Protection injection de commande systeme
+
+[33mcommit 088d63ced4a418ae4378876c317c6e699da94ee7[m
+Author: David Grondin <davidgrondin2a@gmail.com>
+Date:   Mon Nov 22 09:32:42 2021 +0000
+
+    Update .gitignore
+
+[33mcommit 3719417f773454ae784ac2ffe06839660cb9d82a[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Wed Oct 6 13:54:55 2021 +0200
+
+    [test]
+
+[33mcommit bcdd8674fc39d406e61681592f1da0876028c53f[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Wed Oct 6 13:47:41 2021 +0200
+
+    [test]
+
+[33mcommit e35abe6a7ceaacd5da101976f9318af5ab18823f[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Wed Oct 6 13:39:25 2021 +0200
+
+    [test]
+
+[33mcommit afa615b346360219e8fd5bb79054292af511f54d[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Wed Oct 6 13:36:33 2021 +0200
+
+    [test]
+
+[33mcommit 9011c23925104146859edc64460a20ac8eed656b[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 22:54:16 2021 +0200
+
+    [test]
+
+[33mcommit 13e30e35e4244c3fdbd07c96d801050042a2b2d5[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 16:38:57 2021 +0200
+
+    [test]
+
+[33mcommit 2d76e0d5ba9c47e91ee5a05572f1e5aba121ce98[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 16:28:30 2021 +0200
+
+    [test]
+
+[33mcommit 258f1b60906ef8cfa484690825805d9445d15351[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 16:25:59 2021 +0200
+
+    [test] same test as initiated previously
+
+[33mcommit 310325b2654ed925659776a7d252b12fa6ef7982[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 16:22:34 2021 +0200
+
+    [test] select option
+
+[33mcommit bfffda2251a419d25bf94e0507ee52b59011d5ca[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 14:06:39 2021 +0200
+
+    test
+
+[33mcommit dbf081c1234f4e7929881faedd7583f7a4892ed9[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 14:03:22 2021 +0200
+
+    test
+
+[33mcommit 7bffa1dcc1c4781256b8787f821871aa85073653[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 14:00:41 2021 +0200
+
+    test
+
+[33mcommit 2c323011fa607b13a0b753cbd2b0fd65e0b4f621[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:58:11 2021 +0200
+
+    test
+
+[33mcommit 417d296f9a417b0ff6f27b6b226b716dcaa8dcd3[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:55:30 2021 +0200
+
+    test
+
+[33mcommit 5c81b870a79979857bbfac82739417d1a834ac28[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:52:55 2021 +0200
+
+    test
+
+[33mcommit d982fa198e924559a8adcd1dec413bece1e9e769[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:49:26 2021 +0200
+
+    test
+
+[33mcommit b229791445e27846a763f5dc55260b3df12e1f62[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:48:15 2021 +0200
+
+    test
+
+[33mcommit 560a70488bbc9c4960e858ee0dfd42270a2989e0[m
+Merge: ab31e6a a61d0b6
+Author: root <root@templateLaravel.cub.corsica>
+Date:   Tue Oct 5 13:45:17 2021 +0200
+
+    test
+
+[33mcommit ab31e6af444d9c7cb9bd60a4cacc409b589486cd[m
+Author: root <root@templateLaravel.cub.corsica>
+Date:   Tue Oct 5 13:42:21 2021 +0200
+
+    test
+
+[33mcommit a61d0b65b66453301ff9ab0b2ba77dedbeb88833[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:39:52 2021 +0200
+
+    [fix]
+
+[33mcommit bb9c75d5bee5d2142fa59f420e8aa46c8907e2e6[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Oct 5 13:22:42 2021 +0200
+
+    [fix] fix problems update function
+
+[33mcommit fd5ec78271bebbb48845f7c0530c9dba4c343ab1[m
+Merge: 145d06d 80dad8b
+Author: Stéphan Gueorguieff <g2as2000@gmail.com>
+Date:   Thu May 27 15:53:24 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 145d06d588034c7ad6578b50a469b931863407aa[m
+Author: Stéphan Gueorguieff <g2as2000@gmail.com>
+Date:   Thu May 27 15:52:54 2021 +0200
+
+    [FIX] La partie graphique n'est pas tout a fait terminé(voir tâche tulipe pour plus d'informations
+
+[33mcommit 80dad8bfe8c5fb42b039fc62d77c37f19a162916[m
+Merge: 3db1150 ad7355b
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Thu May 27 15:51:40 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 3db1150d518fa8c8649754f8b2951461d6ad9215[m
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Thu May 27 15:51:22 2021 +0200
+
+    [FIX]Semi-corrections des zones(voir tache tuleap pour la suite)
+
+[33mcommit ad7355b23228f3ae083968a4930f0135a5ee7bbd[m
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Thu May 27 15:37:46 2021 +0200
+
+    [DEL] Supression de la fonction RecupZone
+
+[33mcommit 11875caed638d4c4c05a2e1b13ae451eed947aa5[m
+Merge: 94372a6 dbfd48c
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Thu May 27 15:12:17 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 94372a624f5fc2be6b67281355e17df5a041d96d[m
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Thu May 27 15:12:05 2021 +0200
+
+    [UPDATE]Mise a jour de l'interface du dns
+
+[33mcommit dbfd48c290d8d9cd24295126d9ae255f38a09ceb[m
+Merge: 96dfcc6 086148d
+Author: root <root@laravel138.cub.corsica>
+Date:   Thu May 27 14:42:52 2021 +0200
+
+    :qMerge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 96dfcc68917cb456963ac766b3b56203654643bc[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Thu May 27 14:42:33 2021 +0200
+
+    [fix | update] fix du beug du nombre d'enregistrement de type CNAME | changement des couleurs des cards du dashboard
+
+[33mcommit 086148de8c9c96f5793b084962dc1bd18452a501[m
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Thu May 27 14:25:54 2021 +0200
+
+    [DEL] Annihilation totale et absolue du Test d'API DNS
+
+[33mcommit 2f2cdd2ad6b0c804ea74a7bb5cef11b955958e5c[m
+Merge: a5a6284 e2afbd1
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Thu May 27 14:00:27 2021 +0200
+
+    recup mise à jour
+
+[33mcommit a5a628474783e3226622b4f45dac83bf0f891f19[m
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Thu May 27 13:57:08 2021 +0200
+
+    recup mise à jour
+
+[33mcommit e2afbd185a0d239dcb621d88bf4f75abe941f993[m
+Author: divatchyano <divatchyano>
+Date:   Wed May 19 10:42:14 2021 +0200
+
+     [fea] 'Modification ajout enregistrement
+
+[33mcommit d20c1af837863e572d9efe900984accd356cacb7[m
+Merge: 9d3f953 f2f2431
+Author: Blondel <julienblondel123@gmail.com>
+Date:   Tue May 18 17:23:20 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 9d3f953aa55361f2032d95cf056e0e4e93972188[m
+Author: Blondel <julienblondel123@gmail.com>
+Date:   Tue May 18 17:22:33 2021 +0200
+
+    [update] modif cname
+
+[33mcommit f2f2431f647f91088b09b73f6e090edee9d38223[m
+Merge: e8fdddc e9f1738
+Author: divatchyano <divatchyano>
+Date:   Tue May 18 16:44:02 2021 +0200
+
+    [merge] Gestion des conflits
+
+[33mcommit e8fdddc17e1a9aaf58d43228ba7e2eb19ddd4551[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 18 16:42:11 2021 +0200
+
+    [feat] Ajout test des entrées PTR
+
+[33mcommit e9f17389289d3c445969fe4c5d8dcddbdfa4fac3[m
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue May 18 16:32:59 2021 +0200
+
+    [Update]Update du dropdown pour ajouter les noms des types quand ils sont selectionné]
+
+[33mcommit 6df1d42c141c8f56b022c60ab70f9b247c3c1364[m
+Merge: 6260558 30f923c
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue May 18 16:23:37 2021 +0200
+
+    [FIX]Fix du push
+
+[33mcommit 62605583edceb70b149def9d503dd45db74bc9cc[m
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue May 18 16:08:56 2021 +0200
+
+    [Update]Ajout du dropdown dans dns
+
+[33mcommit 30f923c248b6727b37b3b4297688bff6f7fcc6a9[m
+Merge: 9b6eec2 9388515
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 15:51:52 2021 +0200
+
+    [update] ajout d'un message d'erreur / réussite lors de l'enregistrement de données dans la Zone A
+
+[33mcommit 9b6eec270301c8440c03868a26122ac781a843ca[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 15:48:15 2021 +0200
+
+    [update] ajout d'un message d'erreur / réussite lors de l'enregistrement de données dans la Zone A
+
+[33mcommit 9388515b7f810c86cfbaa8a492209f9f06f4d7f9[m
+Merge: d431813 1384115
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 15:13:15 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit d4318137f43635eb950cb9ddd8d050bda5557743[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 15:13:02 2021 +0200
+
+    [UPDATE] Rajout de texte différent en fonction de l'enregistrement dans edit
+
+[33mcommit 138411564a0f8cfa703babec8fb63ca418a70a76[m
+Merge: 61d041d 7d399cf
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 15:05:23 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 61d041dd0791dae095c08f1cdbe92c0841737d8d[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 15:05:06 2021 +0200
+
+    [update] rajout du nombre d'enregistrement de type PTR sur le Dashboard
+
+[33mcommit ef319ca5de1dfa03d9def6127b77217a9bdfb7a1[m
+Merge: 39dad27 7d399cf
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 14:56:02 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 39dad2724c32c02270daa6f8c314b5ba7abf8a70[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 14:55:43 2021 +0200
+
+    [UPDATE] commit de mise à jour
+
+[33mcommit 7d399cf8890ad15c73891d76135a861365854390[m
+Merge: d18abbe 1d59389
+Author: divatchyano <divatchyano>
+Date:   Tue May 18 14:54:29 2021 +0200
+
+    [merge] Gestion des conflits
+
+[33mcommit d18abbea5282f72292c8856306cda129ef8d1b3d[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 18 14:43:48 2021 +0200
+
+    [fix] Le fichier
+
+[33mcommit 443f83795bba4fd602f7760f5656ceb2254d8a6e[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 18 14:43:04 2021 +0200
+
+    [refacto] Transfert du code html présent dans DNS Controller dans une vue partielle générique
+
+[33mcommit 1d59389c55df09a4d0d22bb48c8a2a9c99137417[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 14:38:00 2021 +0200
+
+    [update] rajout du nombre d'enregistrement de type Cname sur le Dashboard
+
+[33mcommit e6961f8c35bd590aa622a6ecb19e1c94c6b66ce2[m
+Merge: 7527e1d 697e33d
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 14:07:53 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 7527e1d80e930dd5416e1b46e32c16fe37d5e629[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 14:07:24 2021 +0200
+
+    [UPDATE] Test de modification de Modifier une zone
+
+[33mcommit 697e33d77358320ae8eefcd93065144eb89d9654[m
+Merge: 5ec5816 4b71aca
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 14:04:12 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 5ec5816d6682fa853ba7586879eb94cb1be39401[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 18 14:03:50 2021 +0200
+
+    [update] rajout des enregistrements de type Cname
+
+[33mcommit 411c6dc5b5ea7814da81027345beb8c3d3f49786[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 13:31:32 2021 +0200
+
+    [FIX] Réglage de edit, encore
+
+[33mcommit fcf77cff9b8fd186eb7634716923cc2aace94f3d[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 13:28:54 2021 +0200
+
+    [FIX] Réglage de web.php
+
+[33mcommit b5a5316e7985050d97469d03ef1140dc81bff8c8[m
+Merge: 9894f99 4b71aca
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 13:21:39 2021 +0200
+
+    [FIX] Réglage de edit
+
+[33mcommit 9894f9956a9bb1f645d7d9f2f5bc1d5f2cc193df[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 18 13:13:10 2021 +0200
+
+    [UPDATE] Validation des modifications de chez David
+
+[33mcommit 4b71aca948588df864d5fef79c483a031c9c661f[m
+Merge: ffe3b12 7ebf29e
+Author: divatchyano <divatchyano>
+Date:   Tue May 11 22:13:12 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit ffe3b12ba57f04bbb8f5be0a1d6d7b59e8f83bda[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 11 22:12:49 2021 +0200
+
+    [feat] Ajout de la fonctionnalité modification de l'entrée dns
+
+[33mcommit 7ebf29ee9159eded278aff378f6ad20c5145e870[m
+Merge: f288eab 8c8095c
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 11 16:54:27 2021 +0200
+
+    [update] ajout du nombre d'éléments de type A dans le dashboard
+
+[33mcommit f288eab6f126f94e55a555dfc7446be2e3477444[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 11 16:51:36 2021 +0200
+
+    [update] ajout du nombre d'éléments de type A dans le dashboard
+
+[33mcommit 8c8095cf7db02912f5cc9b03fbe65c902181c8cb[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 11 14:48:15 2021 +0200
+
+    [fix] correction erreur dernier push
+
+[33mcommit ed602a6d74edeb7483ebfc6b7021c4f492d18064[m
+Merge: 3601daf 9e834bc
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 11 14:18:50 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 3601daf00b4f028fce24f018518e4620efb5df5e[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 11 14:18:37 2021 +0200
+
+    [UPDATE] rajout de route
+
+[33mcommit 9e834bc0c354a315992d83ec5d2d78df78735384[m
+Author: root <root@laravel138.cub.corsica>
+Date:   Tue May 11 14:17:03 2021 +0200
+
+    [update] ajout de la section Zone dans le DNS
+
+[33mcommit dcfbf75a688022284bb13a0eaf0df880be556396[m
+Merge: 8bc4c1b 1ce1bc6
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Tue May 11 13:17:58 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 8bc4c1b9ab94fb33ad359b604288eb293082aff1[m
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Tue May 11 13:17:27 2021 +0200
+
+    recup mise à jour
+
+[33mcommit 1ce1bc631e45848c7307b3cd68bd23011db7c311[m
+Merge: 387aee5 e26d614
+Author: Colin <ant.colin311@gmail.com>
+Date:   Tue May 11 13:15:58 2021 +0200
+
+    [UPDATE] Rajout du moyen de suppression des enregistrements A
+
+[33mcommit 387aee5076e140085fa8109d577241f7fe4b00ba[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Thu May 6 14:40:47 2021 +0200
+
+    [UPDATE] Rajout route, fonction et truc qui marche pas
+
+[33mcommit e26d6140549927ef369c1627737636a9456b2598[m
+Author: divatchyano <divatchyano>
+Date:   Wed May 5 00:16:21 2021 +0200
+
+    [feat] Récupération des enregistrements DNS de type A et affiche dans Service DNS
+
+[33mcommit 048f96efc92ed3cbc389a7c6bc420e47f05370a4[m
+Author: divatchyano <divatchyano>
+Date:   Tue May 4 18:22:12 2021 +0200
+
+    [FEAT] Changement de l'affichage de l'onglet service DNS
+
+[33mcommit f2047e229d31c3066bb1b3c04f52f73c69821458[m
+Merge: 405bd3e c05503b
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Tue May 4 16:24:39 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 405bd3ef227143cfb1a19318c23352640b38bcf4[m
+Author: anthony marchiselli <anthony.mar2a@gmail.com>
+Date:   Tue May 4 16:24:23 2021 +0200
+
+    recup mise à jour
+
+[33mcommit c05503bd654f6aacc679635b7b12f8aab37d7a19[m
+Merge: d0983e2 0c6a7a0
+Author: root <root@laravel133.cub.corsica>
+Date:   Tue May 4 16:21:39 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit d0983e2a1d7bb2677451868dfb855fe5f5393c7f[m
+Author: root <root@laravel133.cub.corsica>
+Date:   Tue May 4 16:21:11 2021 +0200
+
+    [new] ajout de la vue dns.add ainsi que la route ajout
+
+[33mcommit 0c6a7a01b1789ee65eada298874eb4d4cdd1e6d3[m
+Author: root <root@laravel136.cub.corsica>
+Date:   Tue May 4 16:03:52 2021 +0200
+
+    [style] Modification du style du bouton se connecter
+
+[33mcommit 060c86425e12a0b222c04c3b18b778122ece0044[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Mon May 3 15:22:13 2021 +0200
+
+    [CHANGE] Remplacement du pied de page une nouvelle fois
+
+[33mcommit 1944eedcfd83e30df7c532f4bb0f0eefb492cf47[m
+Author: Colin <ant.colin311@gmail.com>
+Date:   Mon May 3 15:20:32 2021 +0200
+
+    [CHANGE] Remplacement du pied de page
+
+[33mcommit 033971904f25bd45e197f149b3c93df365114a58[m
+Merge: 980ed4a 5a37766
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue Apr 27 15:57:27 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 980ed4af875f6fe181ba0ee68da386ac8ff21f90[m
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue Apr 27 15:57:15 2021 +0200
+
+    [Update]Ajout enregistrement PTR dans DNS
+
+[33mcommit 5a37766badd3a816806e1f0d61bd58942b84a6b8[m
+Author: Blondel <julienblondel123@gmail.com>
+Date:   Tue Apr 27 15:54:01 2021 +0200
+
+    [update] Remplacement le label Tester actions SSH par Tester l'API DNS
+
+[33mcommit ace8c71ffc8725f0404ac09c3493306bbcd9ea30[m
+Merge: 3344b52 dc83312
+Author: Blondel <julienblondel123@gmail.com>
+Date:   Tue Apr 27 15:25:50 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 3344b522da8251c20bebf799e924f6f09d1189f6[m
+Author: Blondel <julienblondel123@gmail.com>
+Date:   Tue Apr 27 15:25:12 2021 +0200
+
+    [update] suppression du bouton réglage
+
+[33mcommit dc833123742a25950c52299364a75cd0a38dcf3f[m
+Merge: 26a3bcc 2aded8b
+Author: hugo_rclt <hugorecolet@gmail.com>
+Date:   Tue Apr 27 15:04:58 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 2aded8bd873e2e083694fa8c1eb67f25fdd7d5c1[m
+Merge: 27bd14a a2f9a53
+Author: root <root@laravel133.cub.corsica>
+Date:   Tue Apr 27 15:00:11 2021 +0200
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 27bd14aac090344a6fe5d98b450e4ee20ce0a775[m
+Author: root <root@laravel133.cub.corsica>
+Date:   Tue Apr 27 14:59:47 2021 +0200
+
+    [update] suppression du lien sur network manager
+
+[33mcommit 26a3bccf47f3cb25b9a8fd204ec1f887c880f1be[m
+Author: root <root@laravel137.cub.corsica>
+Date:   Tue Apr 27 14:52:58 2021 +0200
+
+    [Update]Traduction du menu utilisateur
+
+[33mcommit a2f9a53a645eed57ab6fc789b3186038174f998f[m
+Author: root <root@laravel137.cub.corsica>
+Date:   Tue Apr 27 14:16:45 2021 +0200
+
+    [Update]Changement du nom de l'application sur la page d'accueil
+
+[33mcommit 7a14b9eb43bd342cf5f866caf947df86493c99bf[m
+Author: root <root@testCT.cub.corsica>
+Date:   Tue Apr 27 11:15:20 2021 +0200
+
+    Correction .env
+
+[33mcommit 23e17edee9a4460e2eac164a4136db20ca6a24d9[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Apr 6 17:37:50 2021 +0000
+
+    Update .env
+
+[33mcommit ddf3bf9b034887880427388d90f8ad54e4858c93[m
+Author: cthiry <christelle.trucchi@gmail.com>
+Date:   Sun Mar 28 17:45:29 2021 +0200
+
+    [review] Cleaning dns view
+
+[33mcommit c346ed6761c4f4950cbed4a193a38755e8001a79[m
+Author: cthiry <christelle.trucchi@gmail.com>
+Date:   Sun Mar 28 16:19:12 2021 +0200
+
+    [review] Cleaning dns view
+
+[33mcommit 8e7b37b7bb86d631f1e2427946664a856e4e7561[m
+Author: cthiry <christelle.trucchi@gmail.com>
+Date:   Sun Mar 28 01:06:28 2021 +0100
+
+    [update] Routes
+
+[33mcommit 768216296f947222d6865ffe5c2d72a9a72a17a1[m
+Author: cthiry <christelle.trucchi@gmail.com>
+Date:   Sat Mar 27 16:41:40 2021 +0100
+
+    [update] Requests API DNS
+
+[33mcommit 8e16e69d7f9ac0a588a548a1efac7116cf24c6fd[m
+Merge: 55a2c4f af88f1e
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Sun Mar 21 20:05:00 2021 +0100
+
+    [ui] Change labels
+
+[33mcommit 55a2c4f1ee821d7f6879b21722e2b8b55c36c22a[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Sun Mar 21 20:03:13 2021 +0100
+
+    [ui] Change labels
+
+[33mcommit 19fedd825c679d53ab024fcd9a2121889b208886[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Sun Mar 21 20:02:41 2021 +0100
+
+    [ui] Change labels
+
+[33mcommit 91db635291258d486d26abb898bec535840f21d7[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Sun Mar 21 20:01:16 2021 +0100
+
+    [ui] Change labels
+
+[33mcommit af88f1eb3bce72f7f1f5dd411da8b04957e5c1a6[m
+Author: root <root@testTemplateLaravel.cub.corsica>
+Date:   Wed Mar 17 11:13:33 2021 +0100
+
+    [fix] Add file environment for db
+
+[33mcommit 0db311674375d11da5962c0d0334eb0a3bf47584[m
+Author: root <root@testTemplateLaravel.cub.corsica>
+Date:   Wed Mar 17 11:11:53 2021 +0100
+
+    [fix] Add file environment for db
+
+[33mcommit 1b97f559e27c092bf69afa064de3ed226c77a62e[m
+Author: christelle thiry <christelle.thiry@hotmail.fr>
+Date:   Sat Mar 13 23:55:37 2021 +0100
+
+    [fix] delete vendor repository
+
+[33mcommit 30fbe196855ca00ee43d1d99b55cd64d8c4b0c81[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Tue Mar 9 12:01:49 2021 +0100
+
+    [feat] fix sail
+
+[33mcommit 55c429e0ed08a62fe87c3ac35100c07ea36674c3[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Tue Mar 9 11:58:41 2021 +0100
+
+    [feat] fix sail
+
+[33mcommit ab08518b134a8a2988932d11638bafbad7b53526[m
+Merge: 214c126 24dee22
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Tue Mar 9 11:55:45 2021 +0100
+
+    Merge branch 'master' of https://gitlab.com/siollb/NetworkManager
+
+[33mcommit 214c1268f00a6043697e3a299f44bfb754e0c597[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Tue Mar 9 11:53:47 2021 +0100
+
+    [feat] fix sail
+
+[33mcommit 24dee22df45722d649a2a1c2abd43d5da6db99f4[m
+Author: Christelle Thiry <christelle.trucchi@gmail.com>
+Date:   Tue Mar 9 10:30:16 2021 +0000
+
+    [fix] Add autoload
+
+[33mcommit e9f0254080174097e0939d90c64a8cb22af11474[m
+Author: christelle thiry <christelle.thiry@hotmail.fr>
+Date:   Tue Mar 9 11:11:13 2021 +0100
+
+    [feat] Add sail tool
+
+[33mcommit 468a92b51e4a7673452e42fc5eb47199f1065f6f[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Tue Mar 9 10:15:16 2021 +0100
+
+    [feat] Ajout des actions SSH
+
+[33mcommit 2971754ce4f258ed5690a5cef8904f710371fad1[m
+Author: root <root@servWebLaravelCT.cub.corsica>
+Date:   Sun Mar 7 01:22:59 2021 +0100
+
+    [fix] Add command to create database
+
+[33mcommit dea5d7ab26913ce34f156d7cee6e8048bdd7569f[m
+Author: christelle thiry <christelle.thiry@hotmail.fr>
+Date:   Sat Mar 6 20:37:27 2021 +0100
+
+    [update] change README file
+
+[33mcommit 846a07788a32a2543bfab1fd7fa241f1530e6b1d[m
+Author: christelle thiry <christelle.thiry@hotmail.fr>
+Date:   Sat Mar 6 20:32:22 2021 +0100
+
+    [update] Change README file
+
+[33mcommit b3b2203bd755f00a034f4bdcffe2b9fb4bf081dd[m
+Author: christelle thiry <christelle.thiry@hotmail.fr>
+Date:   Sat Mar 6 20:20:40 2021 +0100
+
+    Initial commit
